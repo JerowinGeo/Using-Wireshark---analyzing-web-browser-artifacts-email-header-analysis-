@@ -65,4 +65,4 @@ o Analyze From, To, Subject, Date, Message-ID, and relay servers used in sending
 ![image](https://github.com/user-attachments/assets/e6eaf7d9-3ce1-4c50-a404-94e3181f7d33)
 
 ## RESULT:
-Web browser artifacts and email headers were successfully analyzed using Wireshark
+Web browser artifacts and email headers were successfully analyzed using Wireshark.
